@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Master449 on GitHub and @raccUwUn on Twitter.
+- 🏫 I am currently studying Computer Science at Northern Illinois University.
+- 🌱 I’m currently learning C++, JavaScript, Linux, Arduino, and 3D Printing.
+- 🌳 I've had experience in the past with,
+-           C++
+-           HTML / CSS
+-           JavaScript
+-           Microsoft Suite
+-           Adobe Suite
+-           Windows Powershell
