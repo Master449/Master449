@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Master449 on GitHub and @raccUwUn on Twitter.
+- 👋 Hi, I’m @Master449 on GitHub.
 - 🏫 I am currently studying Computer Science at Northern Illinois University.
 - 🌱 I’m currently learning C++, JavaScript, Linux, Arduino, and 3D Printing.
