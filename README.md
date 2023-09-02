@@ -4,4 +4,4 @@
 
 - 👋 Hi, I’m @Master449 on GitHub.
 - 🏫 I am currently studying Computer Science at Northern Illinois University.
-- 🌱 I’m currently learning JavaScript, Vue.js, Python, and Virtualization..
+- 🌱 I’m currently learning Java, Android Development and NixOS.
