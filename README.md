@@ -1,7 +1,6 @@
 <div align="center">
   <h3>👋 Hi, I’m @Master449 on GitHub.</h3>
-  <p>🏫 I am currently studying Computer Science at Northern Illinois University.</p>
-  <p>🌱 I’m currently learning Java, Android Development and NixOS.</p>
+  <p>🌱 I’m currently learning Java, Assembly and REST APIs.</p>
 </div>
 
 <p align="center">
