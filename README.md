@@ -1,11 +1,11 @@
 <div align="center">
   <h3>👋 Hi, I’m @Master449 on GitHub.</h3>
-  <p>🌱 I’m currently learning Java, Assembly and REST APIs.</p>
+  <p>🌱 I’m currently learning Nix, NixOS, and studying for my CompTIA A+.</p>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,php,python,bash,powershell,javascript,vue,express,bootstrap,css,sass&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nix,cpp,java,php,python,bash,powershell,javascript,vue,express,css,sass&perline=6" />
   </a>
 </p>
 
